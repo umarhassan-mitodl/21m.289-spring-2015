@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 300143a4-32b0-7ec5-92b4-855624b1e692
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 8c517bf1-43dc-842c-5ecb-64fcbada58f8
+  name: Readings & Films
+  pageRef: /pages/readings-films
+  weight: 20
+- identifier: 0e05002e-0e75-51e1-20c0-77bb16ec144a
+  name: Projects
+  pageRef: /pages/projects
+  weight: 30
+- identifier: 6bcd23ee-3e20-e9fc-42a4-ef481a36c78d
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 40
